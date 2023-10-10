@@ -1,0 +1,75 @@
+﻿@page
+@model IndexModel
+@{
+    //Layout = null;
+    ViewData["Title"] = "Index";
+}
+<html>
+
+<head>
+
+    <meta name="viewport" content="width=device-width" charset="utf-8" />
+    <title>Index</title>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+<body>
+    <h2>@Model.Message</h2>
+    <table>
+        <tr>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>City</th>
+        </tr>
+        <tr>
+            <td>Fiserv</td>
+            <td>Trion IT Park</td>
+            <td>Pune</td>
+        </tr>
+        <tr>
+            <td>TCS</td>
+            <td>Galaxy IT Park</td>
+            <td>Noida</td>
+        </tr>
+        <tr>
+            <td>Infosys</td>
+            <td>Hinjewadi</td>
+            <td>Mysur</td>
+        </tr>
+        <tr>
+            <td>Deloitte</td>
+            <td>Ecospace</td>
+            <td>Banlagalore</td>
+        </tr>
+        <tr>
+            <td>Laughing Bacchus Winecellars</td>
+            <td>Yoshi Tannamuri</td>
+            <td>Canada</td>
+        </tr>
+        <tr>
+            <td>Magazzini Alimentari Riuniti</td>
+            <td>Giovanni Rovelli</td>
+            <td>Italy</td>
+        </tr>
+    </table>
+
+</body>
+</html>
+@*<div class="text-center">
+ <h1>Emojies App</h1>
+</div>*@

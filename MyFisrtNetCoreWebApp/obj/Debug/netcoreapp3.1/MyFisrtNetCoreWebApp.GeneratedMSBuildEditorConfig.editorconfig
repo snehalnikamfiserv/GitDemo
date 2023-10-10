@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = MyFisrtNetCoreWebApp
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Snehal\Git\GitDemo\MyFisrtNetCoreWebApp\
+=======
+build_property.ProjectDir = C:\Snehal\Git\GitDemo_1\GitDemo\MyFisrtNetCoreWebApp\
+>>>>>>> 37812f8fa3492c05bf2dad3656f03a10f39b62a3

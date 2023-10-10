@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "TqxAvwskwRn5f9VOMy4CgmiSjYtf8hUFNhfE1VfW7nJCWfctCS5tJqqd8ITH9d3rLf6jhXnVekZwOPgNOLXF7Q==",
   "success": true,
   "projectFilePath": "C:\\Snehal\\Git\\GitDemo\\MyFisrtNetCoreWebApp\\MyFisrtNetCoreWebApp.csproj",
+=======
+  "dgSpecHash": "wNhhPGsO7obbpvxX04vZf980xBLnlhbqok7tbhIBFWLCsfk6BPeVhV3F3vzKtZX5bzuFtNeGxXGi2yzKG6AIDg==",
+  "success": true,
+  "projectFilePath": "C:\\Snehal\\Git\\GitDemo_1\\GitDemo\\MyFisrtNetCoreWebApp\\MyFisrtNetCoreWebApp.csproj",
+>>>>>>> 37812f8fa3492c05bf2dad3656f03a10f39b62a3
   "expectedPackageFiles": [
     "C:\\Users\\snnikam\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\snnikam\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Snehal\\Git\\GitDemo\\MyFisrtNetCoreWebApp\\MyFisrtNetCoreWebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Snehal\\Git\\GitDemo\\MyFisrtNetCoreWebApp\\MyFisrtNetCoreWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Snehal\\Git\\GitDemo\\MyFisrtNetCoreWebApp\\MyFisrtNetCoreWebApp.csproj",
+        "projectName": "MyFisrtNetCoreWebApp",
+        "projectPath": "C:\\Snehal\\Git\\GitDemo\\MyFisrtNetCoreWebApp\\MyFisrtNetCoreWebApp.csproj",
+        "packagesPath": "C:\\Users\\snnikam\\.nuget\\packages\\",
+        "outputPath": "C:\\Snehal\\Git\\GitDemo\\MyFisrtNetCoreWebApp\\obj\\",
+=======
     "C:\\Snehal\\Git\\GitDemo_1\\GitDemo\\MyFisrtNetCoreWebApp\\MyFisrtNetCoreWebApp.csproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "C:\\Snehal\\Git\\GitDemo_1\\GitDemo\\MyFisrtNetCoreWebApp\\MyFisrtNetCoreWebApp.csproj",
         "packagesPath": "C:\\Users\\snnikam\\.nuget\\packages\\",
         "outputPath": "C:\\Snehal\\Git\\GitDemo_1\\GitDemo\\MyFisrtNetCoreWebApp\\obj\\",
+>>>>>>> 37812f8fa3492c05bf2dad3656f03a10f39b62a3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
